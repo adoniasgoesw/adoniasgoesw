@@ -33,6 +33,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adoniasgoesw/adoniasgoesw/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://profile-readme-generator.com/assets/snake.svg"  />
+</div>
 
-###
+####
