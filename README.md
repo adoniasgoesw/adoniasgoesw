@@ -1,4 +1,4 @@
-<p align="left">"Hello, Word!" I'm Adonias Goes</p>
+<p align="left">"Hello, World!" I'm Adonias Goes</p>
 
 ###
 
