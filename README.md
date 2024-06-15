@@ -33,14 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adoniasgoesw/adoniasgoesw/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adoniasgoesw/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/adoniasgoesw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=adoniasgoesw&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
