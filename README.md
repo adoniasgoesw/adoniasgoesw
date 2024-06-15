@@ -33,7 +33,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://profile-readme-generator.com/assets/snake.svg"  />
 </div>
 
