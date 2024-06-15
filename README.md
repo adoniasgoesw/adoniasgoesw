@@ -1,4 +1,4 @@
-<p align="left"><font height="700">"Hello, Word!" I'm Adonias Goes</font></p>
+<p align="left">"Hello, Word!" I'm Adonias Goes</p>
 
 ###
 
@@ -34,5 +34,8 @@
 ###
 
 <img src="https://raw.githubusercontent.com/adoniasgoesw/adoniasgoesw/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ###
