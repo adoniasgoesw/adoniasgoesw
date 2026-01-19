@@ -50,7 +50,7 @@ I enjoy traveling, coding, staying organized, learning new technologies and impr
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
