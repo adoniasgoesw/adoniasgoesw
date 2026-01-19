@@ -1,56 +1,69 @@
-<div align="center">
-  <a href="https://www.instagram.com/adoniasgoesw/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adonias-goes-554631270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+# GitHub Profile Bio - Adonias Goes
 
-###
+Copy and paste this into your GitHub profile README:
 
-<h1 align="center">Hello, World!</h1>
+---
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonias-goes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adoniasgoes)
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+Hi, I'm **Adonias Goes**, a passionate Software Developer from Brazil 🇧🇷
 
-<p align="left">Hi, I’m Adonias Goes from Brazil.<br><br>-🔭 I’m working as a software developer, focusing on front-end development.<br>-📚 I'm currently studying Analysis and Systems Development at PUC, enhancing my skills in front-end technologies, including JavaScript and web design.<br>-⚡ In my free time, I enjoy improving my front-end development skills, traveling, exploring new cultures, and continuously learning about technology trends.<br>-🌎 I speak Portuguese, English, Spanish, and French.</p>
+- 🔭 I'm currently working as a **Frontend Developer**, specializing in modern web technologies
+- 📚 I'm pursuing a degree in **Analysis and Systems Development** at PUC
+- 💼 I develop professional websites and web applications with focus on user experience and performance
+- ⚡ In my free time, I enjoy coding, learning new technologies, and contributing to open source projects
+- 🌎 I speak **Portuguese** (Native), **English** (Fluent), **Spanish** (Intermediate), and **French** (Basic)
 
-###
+## 🛠️ Tech Stack
 
-<h3 align="left">🛠 Language and tools</h3>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+### Deployment & DevOps
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-###
+## 📊 GitHub Stats
 
-<h3 align="left">🔥   My Stats :</h3>
+![Adonias Goes's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoniasgoes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasgoes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adoniasgoesw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=adoniasgoes&theme=tokyonight&hide_border=true&background=0D1117)
 
-###
+## 🔥 Most Used Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adonias-goes)
+- 📸 [Instagram](https://www.instagram.com/adoniasgoes)
+
+---
+
+⭐️ From [Adonias Goes](https://github.com/adoniasgoes)
