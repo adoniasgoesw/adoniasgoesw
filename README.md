@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonias-goes-554631270/)
@@ -35,24 +34,31 @@ I enjoy traveling, coding, staying organized, learning new technologies and impr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Deployment
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Adonias Goes's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoniasgoesw&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adoniasgoesw&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasgoesw&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&exclude_repo=github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniasgoesw&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&exclude_repo=github-readme-stats" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=adoniasgoesw&theme=dark&hide_border=true&background=0D1117)
+<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=adoniasgoesw&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
