@@ -10,11 +10,11 @@
 
 ## Hello World 👋
 
-I'm **Adonias Goes**, a front-end developer with a minimalist mindset.
+I am a Front-End Developer focused on React, holding a degree in Systems Analysis and Development from Pontifícia Universidade Católica do Paraná.
 
-My work is based on a single visual style — black, off-white and clean interfaces.
+I have experience developing web applications and systems using JavaScript, React, Node.js, TailwindCSS, and SQL, as well as working with API integrations and Git version control.
 
-I hold a degree in **Systems Analysis and Development (PUC-PR)** and build websites, systems and SaaS applications, always focused on clarity, functionality and consistency.
+I am seeking my first opportunity as a Junior Developer, where I can contribute with well-structured solutions, continuously improve my technical skills, and create impact through technology.
 
 I enjoy traveling, coding, staying organized, learning new technologies and improving my skills every day.
 
